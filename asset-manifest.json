@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cpsReact/static/css/main.7b8cbee0.css",
+    "main.js": "/cpsReact/static/js/main.7b256454.js",
+    "index.html": "/cpsReact/index.html",
+    "main.7b8cbee0.css.map": "/cpsReact/static/css/main.7b8cbee0.css.map",
+    "main.7b256454.js.map": "/cpsReact/static/js/main.7b256454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b8cbee0.css",
+    "static/js/main.7b256454.js"
+  ]
+}
